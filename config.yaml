@@ -7,9 +7,9 @@ pygmentsstyle: 'monokai'
 theme: novela
 paginate: 6
 social:
-  twitter: "@lise_marcy"
-  instagram: "#"
-  facebook: "Lise-Marcy"
-  youtube: "#"
+  twitter: "https://twitter.com/lise_marcy"
+  instagram: ""
+  facebook: "https://www.facebook.com/lesromancesdelisemarcy"
+  youtube: ""
 taxonomies:
   author: authors
