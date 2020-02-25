@@ -1,7 +1,6 @@
 +++
 authors = []
 date = ""
-draft = true
 excerpt = "— Je te promets que ce n’est pas ma faute, Nat.  — C’est toujours la même chose avec toi ! Tu as toujours une bonne raison. Mais putain, tu as 25 ans, quand est-ce que tu vas grandir et enfin devenir une adulte ?  Elle soupire. Sa voix a beau être faible, quand elle hurle, c’est désagréable. Je me sens nulle, rabaissée. Je ne suis qu’une abrutie ambulante..."
 hero = "/images/beauty-1319951_1920.jpg"
 timeToRead = 21
