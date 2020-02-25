@@ -38,7 +38,8 @@ fields:
   label: Hero Image
 - name: authors
   type: tag_list
-  default: []
+  default: 
+    - Lise Marcy
   label: Authors
   hidden: false
 pages:
