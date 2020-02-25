@@ -9,26 +9,27 @@ title = "Les romances de Noël"
 +++
 Aujourd’hui c’est le 24 décembre. N’ayant ni enfant, ni petit-ami, il est vrai que je suis encore jeune, je le passe chez mes parents qui vivent dans un petit village toulousain. J’ai 22 ans et le bilan de ma courte vie n’est pas brillant. Je suis en M2 architecture, ça c’est pas mal certes, mais je n’ai encore rencontré aucun mec sérieux qui a pu faire vibrer mon cœur.
 
-* Joëlle, ma chérie, tu peux aller ouvrir ? C’est sans doute le facteur.
+> Joëlle, ma chérie, tu peux aller ouvrir ? C’est sans doute le facteur.
 
 Je trouve ma mère gonflée de m’appeler alors qu’elle est dans la cuisine juste à côté de la porte d’entrée.
 
 J’y vais en marchant lentement, légèrement agacée. En ouvrant la porte, je hurle sur le pauvre homme :
 
-* C’est pourquoi ?
+> C’est pourquoi ?
 
 Je pose ainsi mon regard sur lui et ses yeux verts me transpercent littéralement. Je suis fascinée.
 
-* Bonjour, je fais ce pourquoi je suis payé. Distribuer le courrier.
+> Bonjour, je fais ce pourquoi je suis payé. Distribuer le courrier.
 
 Je reste sans voix. Il est en colère, c’est certain.
 
-* Pas étonnant que certains facteurs préfèrent laisser des récépissés dans les boîtes. Je commence à comprendre leur appétence pas si naturelle finalement à le faire.
+> Pas étonnant que certains facteurs préfèrent laisser des récépissés dans les boîtes. Je commence à comprendre leur appétence pas si naturelle finalement à le faire.
 
 Je me sens bête tout d’un coup.
 
-* Excusez-moi. Je n’aurais pas dû vous parler de la sorte.
-* Voilà une lettre recommandée. Il me faudrait une signature, s’il vous plaît.
+> Excusez-moi. Je n’aurais pas dû vous parler de la sorte.
+
+> Voilà une lettre recommandée. Il me faudrait une signature, s’il vous plaît.
 
 Je tente un sourire pour détendre l’atmosphère. Il ne me le rend pas. Lorsque j’ai signé, il se contente de me saluer poliment et s’en va.
 
