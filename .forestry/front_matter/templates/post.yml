@@ -37,13 +37,9 @@ fields:
     maxSize: 250
   label: Hero Image
 - name: authors
-  type: select
-  default: - Lise Marcy
+  type: tag_list
+  default: []
   label: Authors
-  config:
-    source:
-      type: Author
-
-
+  hidden: false
 pages:
 - content/post/amendez-moi.md
