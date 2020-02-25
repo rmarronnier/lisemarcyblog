@@ -44,5 +44,4 @@ fields:
   label: Featured Author
   description: Feature this author on the home page
 pages:
-- content/authors/lise-marcy.md
 - content/authors/lise-marcy/lise-marcy.md
