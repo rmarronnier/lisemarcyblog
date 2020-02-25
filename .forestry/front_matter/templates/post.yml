@@ -38,9 +38,10 @@ fields:
   label: Hero Image
 - name: authors
   type: tag_list
-  default: 
-    - Lise Marcy
+  default:
+  - Lise Marcy
   label: Authors
   hidden: false
 pages:
 - content/post/amendez-moi.md
+- content/post/sdfsdf.md
